@@ -8,4 +8,7 @@ Gitcoin: 1) Create A Godwoken Account On The EVM Layer 2 Testnet
 [https://explorer.nervos.org/aggron/address/ckt1qyqf0lcy3fxh5448s7f0n4a6a9nn6ew5x82qgnp0vf](https://explorer.nervos.org/aggron/address/ckt1qyqf0lcy3fxh5448s7f0n4a6a9nn6ew5x82qgnp0vf)
 
 3. A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2.
-![]()
+![](deposit.PNG)
+
+
+

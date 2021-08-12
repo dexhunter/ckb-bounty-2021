@@ -9,6 +9,7 @@ Gitcoin: 1) Create A Godwoken Account On The EVM Layer 2 Testnet
 
 3. A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2.
 ![](deposit.PNG)
+![](deposit2.PNG)
 
 
 

@@ -6,4 +6,4 @@ Finished:
 - [x] 0) Setup A Local CKB Node And CKB Indexer For The Testnet
 - [x] 1) Create A Godwoken Account On The EVM Layer 2 Testnet
 - [x] 2) Deploy A Simple Ethereum Smart Contract On Polyjuice
-- [] 
+- [x] 3) Issue A Smart Contract Call To The Deployed Smart Contract

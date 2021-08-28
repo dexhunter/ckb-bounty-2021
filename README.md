@@ -7,3 +7,5 @@ Finished:
 - [x] 1) Create A Godwoken Account On The EVM Layer 2 Testnet
 - [x] 2) Deploy A Simple Ethereum Smart Contract On Polyjuice
 - [x] 3) Issue A Smart Contract Call To The Deployed Smart Contract
+- [x] 4) Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
+

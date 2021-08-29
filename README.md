@@ -9,4 +9,5 @@ Finished:
 - [x] 3) Issue A Smart Contract Call To The Deployed Smart Contract
 - [x] 4) Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
 - [x] 5) Deploy The ERC20 Proxy Contract For The Deposited SUDT
+- [x] 6) Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice
 
